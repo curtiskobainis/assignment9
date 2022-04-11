@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+    color: yellow;
+}
+
+.btn-success {
+    background-color: red;
+    
+}
+
+.btn-success:hover {
+    background-color: yellow;
+    color: black;
+}
